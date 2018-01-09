@@ -11,5 +11,5 @@ The datasets MVSA-Single and MVSA-Multi are easy to find from the citation in ou
 # Cite
 If you use this code, please cite the following our paper:
 
-Nan Xu and Wenji Mao. 2017. MultiSentiNet: A Deep Semantic Network for Multimodal Sentiment Analysis. In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM '17). [[pdf](http://delivery.acm.org/10.1145/3140000/3133142/p2399-xu.pdf?ip=159.226.177.200&id=3133142&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2E949A0B1AADF887FF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1025106513&CFTOKEN=25773156&__acm__=1515483274_72ab3affea6608ade35350763de3da7f)]
+Nan Xu and Wenji Mao. 2017. MultiSentiNet: A Deep Semantic Network for Multimodal Sentiment Analysis. In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM '17). [[pdf](https://dl.acm.org/citation.cfm?id=3133142)]
 
